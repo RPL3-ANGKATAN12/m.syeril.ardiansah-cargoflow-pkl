@@ -63,18 +63,10 @@ Gunakan panduan alur bicara ini saat merekam layar (pakai OBS Studio atau Simple
 
 ---
 
-## 🌐 Cara Upload ke GitHub (Mendapatkan Nilai Bonus)
+## 🌐 Repository GitHub Projek (Klaim Bonus Ummi)
 
-Jalankan perintah ini di dalam folder `TUGAS UMMIE`:
-```bash
-git init
-git add .
-git commit -m "feat: inisialisasi projek tugas UKK logistik PHP MySQL"
-git branch -M main
-```
-Lalu buat repository baru di akun GitHub kamu (misal nama repo: `tugas-pkl-logistik`), kemudian hubungkan:
-```bash
-git remote add origin https://github.com/USERNAME_KAMU/tugas-pkl-logistik.git
-git push -u origin main
-```
-Setelah itu screenshot tampilan repo di browser sebagai bukti pengiriman GitHub bonus!
+Repository publik sudah aktif dan ter-push ke GitHub:
+👉 **https://github.com/rilardian1-hue/tugas-projek-pkl-logistik**
+
+Buka link di atas di browser kamu, lalu screenshot halamannya sebagai bukti pengiriman GitHub bonus!
+
