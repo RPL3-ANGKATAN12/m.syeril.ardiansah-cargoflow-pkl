@@ -66,7 +66,7 @@ Gunakan panduan alur bicara ini saat merekam layar (pakai OBS Studio atau Simple
 ## 🌐 Repository GitHub Projek (Klaim Bonus Ummi)
 
 Repository publik sudah aktif dan ter-push ke GitHub:
-👉 **https://github.com/rillardian655/m.syeril.ardiansah-cargoflow-php**
+👉 **https://github.com/RPL3-ANGKATAN12/m.syeril.ardiansah-cargoflow-pkl**
 
 Buka link di atas di browser kamu, lalu screenshot halamannya sebagai bukti pengiriman GitHub bonus!
 
